@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://inveliagroup.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- PÁGINAS PRINCIPALES (ES) -->
+  <url>
+    <loc>https://inveliagroup.com/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/"/>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/invelia-group.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/contact-bg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/logotipo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/sobre-nosotros/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/about-us/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/sobre-nosotros/"/>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/empresa.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/servicios/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/servicios/"/>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/about-img.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/construcciones/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/construcciones/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/buildings/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/construcciones/"/>
+    <image:image><image:loc>https://inveliagroup.com/images/empresa-movimiento-tierras.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/movimiento-de-tierras.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/edificacion.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/metalurgia.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/mantenimiento.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/carreteras.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/ingenieria.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/crudo/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/crudo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/petroleum/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/crudo/"/>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/petrolera.jpg</image:loc>
+    </image:image>
+  </url>
+  
+  <!-- PÁGINAS PRINCIPALES (EN) -->
+  <url>
+    <loc>https://inveliagroup.com/en/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/"/>
+    <image:image><image:loc>https://inveliagroup.com/images/invelia-group.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/contact-bg.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/logotipo.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/en/about-us/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/about-us/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/sobre-nosotros/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/sobre-nosotros/"/>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/about-img.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/en/services/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/servicios/"/>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/about-img.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/en/buildings/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/buildings/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/construcciones/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/construcciones/"/>
+    <image:image><image:loc>https://inveliagroup.com/images/empresa-movimiento-tierras.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/movimiento-de-tierras.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/edificacion.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/metalurgia.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/mantenimiento.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/carreteras.jpg</image:loc></image:image>
+    <image:image><image:loc>https://inveliagroup.com/images/ingenieria.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/en/petroleum/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://inveliagroup.com/en/petroleum/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://inveliagroup.com/crudo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://inveliagroup.com/crudo/"/>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/petrolera.jpg</image:loc>
+    </image:image>
+  </url>
+  
+  <!-- BLOG -->
+  <url>
+    <loc>https://inveliagroup.com/blog/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/noticias-invelia-group.jpg</image:loc>
+    </image:image>
+  </url>
+  
+  <!-- ARTÍCULOS DEL BLOG (NUEVOS) -->
+  <url>
+    <loc>https://inveliagroup.com/blog/transicion-energetica-desafios-oportunidades/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/imagen-transicion-energetica-desafios-oportunidades.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/blog/tendencias-mercado-energetico-2025/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/imagen-tendencias-mercado-energetico-2025.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/blog/logistica-hidrocarburos-espana-2025/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/movimiento-de-tierras.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/blog/cumplimiento-fiscalidad-hidrocarburos-ue/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/imagen-cumplimiento-fiscalidad-hidrocarburos-ue.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/blog/casos-exito-compras-crudo-gestion-riesgos/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/imagen-casos-exito-compras-crudo-gestion-riesgos.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://inveliagroup.com/blog/mix-energetico-2025/</loc>
+    <lastmod>2025-09-25T00:00:00+02:00</lastmod>
+    <image:image>
+      <image:loc>https://inveliagroup.com/images/imagen-mix-energetico-2025.jpg</image:loc>
+    </image:image>
+  </url>
+
+</urlset>
