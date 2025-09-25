@@ -25,7 +25,7 @@
   <link href="css/responsive.css" rel="stylesheet" />
 </head>
 
-<body>
+<body class="landing-page">
   <div class="hero_area">
     <!-- header section strats -->
     <div class="hero_bg_box">
@@ -33,6 +33,8 @@
         <img src="images/invelia-group.jpg" alt="Invelia Group">
       </div>
     </div>
+
+    <div class="hero_gradient-layer"></div>
 
     <header class="header_section">
       <div class="header_top">
@@ -44,8 +46,6 @@
                 info@inveliagroup.com
               </span>
             </a>
-            <a href="mailto:info@inveliagroup.com" class="contact_link3">
-            </a>
           </div>
         </div>
       </div>
@@ -54,7 +54,7 @@
           <nav class="navbar navbar-expand-lg custom_nav-container">
             <a class="navbar-brand" href="/">
               <span>
-                <img src="images/logotipo.png" alt="Invelia Group logo" class="logoimg" style="width: 120px;padding: 10px;">
+                <img src="images/logotipo.png" alt="Invelia Group logo" class="logoimg">
               </span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -95,7 +95,7 @@
     </header>
     <!-- end header section -->
     <!-- slider section -->
-    <section class=" slider_section ">
+    <section class="slider_section">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -112,6 +112,11 @@
                     <p>
                       Representados por EXPANDPERSISTENCE, LDA, nos dedicamos a la consultoría energética especializada en hidrocarburos y sus derivados. Facilitamos transacciones y brindamos asesoría en mercados estratégicos.
                     </p>
+                    <div class="hero_highlights">
+                      <span class="highlight_chip">Representación de empresas</span>
+                      <span class="highlight_chip">Marketing sectorial</span>
+                      <span class="highlight_chip">Asesoría y consultoría de Geopolítica</span>
+                    </div>
                     <div class="btn-box">
                       <a href="/presentacion/presentacion.docx" class="btn-1" target="_blank">Presentación</a>
                       <a href="/contacto/" class="btn-2">Contacto</a>
@@ -135,6 +140,11 @@
                     <p>
                       Nos esforzamos por optimizar operaciones y maximizar el valor de activos en el sector de hidrocarburos. Ofrecemos nuestra experiencia para garantizar transacciones seguras y rentables en el mercado global.
                     </p>
+                    <div class="hero_highlights">
+                      <span class="highlight_chip">Optimizar operaciones</span>
+                      <span class="highlight_chip">Transacciones seguras</span>
+                      <span class="highlight_chip">Mercado global</span>
+                    </div>
                     <div class="btn-box">
                       <a href="" class="btn-1">Presentación</a>
                       <a href="/contacto/" class="btn-2">Contacto</a>
@@ -157,6 +167,12 @@
                       </p>
                     <p>
                       Nuestros valores definen quiénes somos y cómo operamos. La excelencia técnica, la integridad y la transparencia son fundamentales en cada actividad que realizamos. Nos comprometemos con la sostenibilidad y la innovación para ofrecer soluciones energéticas personalizadas.
+                    </p>
+                    <div class="hero_highlights">
+                      <span class="highlight_chip">Excelencia técnica</span>
+                      <span class="highlight_chip">Integridad</span>
+                      <span class="highlight_chip">Transparencia</span>
+                    </div>
                     <div class="btn-box">
                       <a href="" class="btn-1">Presentación</a>
                       <a href="/contacto/" class="btn-2">Contacto</a>
@@ -181,7 +197,7 @@
 
   <!-- about section -->
 
-  <section class="about_section layout_padding">
+  <section class="about_section layout_padding section_shell">
     <div class="container">
       <div class="row">
         <div class="col-md-6 px-0">
@@ -192,7 +208,7 @@
           </div>
         </div>
         <div class="col-md-6 px-0">
-          <div class="detail-box">
+          <div class="detail-box glass_panel">
             <div class="heading_container ">
               <h2>
                 ¿Quiénes somos?
@@ -216,7 +232,7 @@
 
   <!-- service section -->
 
-  <section class="service_section layout_padding">
+  <section class="service_section layout_padding section_shell">
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
@@ -225,7 +241,7 @@
       </div>
       <div class="row">
         <div class="col-md-4">
-          <div class="box ">
+          <div class="box feature_card">
             <div class="detail-box">
               <h3>
                 Representación de empresas
@@ -240,7 +256,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <div class="box ">
+          <div class="box feature_card">
             <div class="detail-box">
               <h3>
                 Marketing sectorial
@@ -255,7 +271,7 @@
           </div>
         </div>
         <div class="col-md-4">
-          <div class="box ">
+          <div class="box feature_card">
             <div class="detail-box">
               <h3>
                 Asesoría y consultoría de Geopolítica
@@ -278,7 +294,7 @@
 
   <!-- client section -->
 
-  <section class="client_section layout_padding">
+  <section class="client_section layout_padding alt_surface">
     <div class="container ">
       <div class="heading_container heading_center">
         <h2>
@@ -288,7 +304,7 @@
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <div class="box">
+            <div class="box value_card">
               <div class="detail-box">
                 <h3>
                   Inteligencia
@@ -300,7 +316,7 @@
             </div>
           </div>
           <div class="carousel-item ">
-            <div class="box">
+            <div class="box value_card">
               <div class="detail-box">
                 <h3>
                   Unidades
@@ -312,7 +328,7 @@
             </div>
           </div>
           <div class="carousel-item ">
-            <div class="box">
+            <div class="box value_card">
               <div class="detail-box">
                 <h3>
                   Newsletter
@@ -324,7 +340,7 @@
             </div>
           </div>
           <div class="carousel-item ">
-            <div class="box">
+            <div class="box value_card">
               <div class="detail-box">
                 <h3>
                   Central propia
@@ -336,7 +352,7 @@
             </div>
           </div>
           <div class="carousel-item ">
-            <div class="box">
+            <div class="box value_card">
               <div class="detail-box">
                 <h3>
                   Prospección global
@@ -348,7 +364,7 @@
             </div>
           </div>
           <div class="carousel-item ">
-            <div class="box">
+            <div class="box value_card">
               <div class="detail-box">
                 <h3>
                   Monitorización
@@ -360,7 +376,7 @@
             </div>
           </div>
           <div class="carousel-item ">
-            <div class="box">
+            <div class="box value_card">
               <div class="detail-box">
                 <h3>
                   Captación
@@ -373,6 +389,14 @@
           </div>
         </div>
         <div class="carousel_btn-box">
+          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="fa fa-angle-left" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="fa fa-angle-right" aria-hidden="true"></span>
+            <span class="sr-only">Siguiente</span>
+          </a>
         </div>
       </div>
     </div>
@@ -381,23 +405,23 @@
   <!-- end client section -->
 
   <!-- contact section -->
-  <section class="contact_section layout_padding">
+  <section class="contact_section layout_padding section_shell">
       <div class="contact_bg_box">
           <div class="img-box">
               <img src="images/contact-bg.jpg" alt="Contacto Invelia Group">
           </div>
       </div>
       <div class="container">
-          <div class="heading_container heading_center">
-              <h2>
-                  Contacta con nosotros
-              </h2>
-          </div>
-          <div class="">
-              <div class="row">
-                  <div class="col-md-7 mx-auto">
+        <div class="heading_container heading_center">
+          <h2>
+            Contacta con nosotros
+          </h2>
+        </div>
+        <div class="">
+          <div class="row">
+            <div class="col-md-7 mx-auto">
                     <form id="contactForm" action="https://api.web3forms.com/submit" method="POST" novalidate>
-                      <div class="contact_form-container">
+                      <div class="contact_form-container glass_panel">
                         <div>
                           <input type="hidden" name="access_key" value="6e7aedd7-9f0b-4102-ae2c-4480eddcc9f5">
                           <input type="hidden" name="subject" value="Nuevo contacto desde Invelia Group">
@@ -419,7 +443,7 @@
                             <input type="text" name="phone" placeholder="Teléfono">
                           </div>
                           <div>
-                            <textarea name="message" style="width:-webkit-fill-available;min-height:100px;" placeholder="Mensaje" class="message_input" required maxlength="2000"></textarea>
+                            <textarea name="message" placeholder="Mensaje" class="message_input" required maxlength="2000"></textarea>
                           </div>
 
                           <input type="hidden" name="Antispam" value="✅">
@@ -438,7 +462,7 @@
   <!-- end contact section -->
   <!-- team section -->
 
-  <section class="team_section layout_padding">
+  <section class="team_section layout_padding section_shell">
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
@@ -527,18 +551,18 @@
     </div>
   </section>
 
-  <section class="team_section layout_padding" style="    background-color: #1c1c1c;">
+  <section class="team_section layout_padding dark_section">
     <div class="container">
       <div class="heading_container heading_center">
-        <h2 style="color:white">
+        <h2>
           Especialistas en petróleo y sus derivados
         </h2>
-        <p style="color:white">
+        <p>
           Para INVELIA GROUP es indudable que en la actualidad el petróleo es el commodity (materia prima) más comercializado en todo el mundo. Como materia prima, nada se compara al petróleo en cuanto a su importancia para la economía y la vida moderna. Sin este combustible fósil, el mundo sería muy diferente de lo que es.
         </p><br>
       </div>
       <div class="row">
-        <img src="images/especialistas-crudo.jpg" alt="especialistas en crudo" style="width:100%">
+        <img src="images/especialistas-crudo.jpg" alt="especialistas en crudo" class="full_width-img">
       </div>
       <div class="btn-box">
         <a href="/crudo/">
@@ -551,7 +575,7 @@
   <!-- end team section -->
 
   <!-- info section -->
-  <section class="info_section ">
+  <section class="info_section modern_footer">
     <div class="container">
       <div class="row">
         <div class="col-md-3">
